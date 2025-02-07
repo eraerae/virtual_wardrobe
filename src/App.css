@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Gilmer&display=swap');
+
+
+
+h1 {
+  font-family: 'Brandon Grotesque', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 7cm;
+  
+}
+h2{
+  text-align: center;
+}
+
+body {
+  display: block;
+  margin: 8px;
+  background-color: #E3DDD8;
+}
+button#basic-button{
+  color: black;
+  background-color: lightskyblue;
+  text-align: left  ;
+  align-items: center;
+}
+button.btn.btn-primary {
+  color: black;
+  background-color: lightskyblue;
+  text-align: left  ;
+  align-items: center;
+  border: 0vh;
+}
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+    color: rgb(0, 0, 0);
+    align-self:center;
+    text-align: center;
+  
+}
+
